@@ -1,3 +1,4 @@
+require "pry"
 require_relative "../lib/validator"
 
 describe "End-to-end test" do
